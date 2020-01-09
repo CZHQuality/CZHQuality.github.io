@@ -6,14 +6,17 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "China"
+title                    : "Zhaohui CHE / ZhaohuiCHE"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhaohui CHE"
+description              : &description "PhD candidate in SJTU.
+                            Majoring in computer vision and image processing, 
+                            especially the robustness of deep neural networks 
+                            (transformation, adversarial attack)"
+url                      : https://zhaohuiche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "CZHQuality/ZhaohuiCHE.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +34,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['Zhaohui Che', 'chezhaohui@sjtu.edu.cn', 'https://github.com/CZHQuality/', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
