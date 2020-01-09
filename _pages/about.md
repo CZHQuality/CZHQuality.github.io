@@ -12,6 +12,7 @@ redirect_from:
 
 About Me
 ======
+* <span style="color:black">
 I am a Ph.D. student at [Shanghai Jiao Tong University] (http://en.sjtu.edu.cn/). I am advised by Prof. Guangtao Zhai. My research interest lies in Computer Vision, Image Processing, and Machine Learning.
 
 
