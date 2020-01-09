@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhaohui Che"
-  avatar           : "https://github.com/CZHQuality/CZHQuality.github.io/blob/master/files/ZhaohuiChe.jpg"
+  avatar           : # "files/ZhaohuiChe.jpg"
   bio              : "PhD candidate in Shanghai Jiao Tong University"
   location         : "Shanghai-China"
   employer         :
