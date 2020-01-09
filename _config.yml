@@ -10,12 +10,9 @@ locale                   : "China"
 title                    : "Zhaohui CHE / ZhaohuiCHE"
 title_separator          : "-"
 name                     : &name "Zhaohui CHE"
-description              : &description "PhD candidate in SJTU.
-                            Majoring in computer vision and image processing, 
-                            especially the robustness of deep neural networks 
-                            (transformation, adversarial attack)"
-url                      : https://zhaohuiche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "PhD candidate in SJTU"
+url                      : "https://zhaohuiche.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://zhaohuiche.github.io/blog" # the subpath of your site, e.g. "/blog"
 repository               : "CZHQuality/ZhaohuiCHE.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
