@@ -11,8 +11,7 @@ title                    : "Zhaohui CHE"
 title_separator          : "-"
 name                     : &name "Dr. ZhaohuiCHE"
 description              : &description "PhD candidate in SJTU"
-url                      : https://zhaohuiche.github.io 
-                            # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhaohuiche.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhaohuiche.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -33,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['Zhaohui Che', 'chezhaohui@sjtu.edu.cn', 'https://github.com/CZHQuality/', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
