@@ -31,9 +31,19 @@ Accepted for publication, IEEE T-IP 2019.
 
 
 
-### Workshops
-* <span style="color:blue">An Empirical Exploration of Gradient Correlations in Deep Learning</span>.\\
-D. Rothchild, R. Fox, N. Golmant, J. Gonzalez, M. W. Mahoney, K. Rothauge, I. Stoica and Z. Yao\\
-Integration of Deep Learning Theories, NeurIPS 2018
+### Competitions
+* <span style="color:blue">[LSUN'17 SALICON Saliency Prediction Challenge](https://competitions.codalab.org/competitions/17136)\\
+Z. Che\\
+Our method (under username "codacscgaze") ranked top-5 in LSUN'17 Challenge (until Oct. 2019)
+  
+* <span style="color:blue">[Salient360!](https://salient360.ls2n.fr/)\\
+Y. Zhu, X. Min, Z. Che, G. Zhai\\
+Our team won the 1st place at Salient360! competition at ICME2018.
+  
+* <span style="color:blue">[Salieny4ASD](https://saliency4asd.ls2n.fr/)\\
+G. Zhai, Z. Che, J. Gutierrze, P. L. Callet\\
+We organized the Grand Challenge Salieny4ASD at ICME2019.
+
+
 
 
