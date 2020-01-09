@@ -31,8 +31,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Zhaohui Che', 'chezhaohui@sjtu.edu.cn', 'https://github.com/CZHQuality/', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  allowedFields          : ['', '', '', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
